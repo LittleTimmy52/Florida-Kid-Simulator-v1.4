@@ -6,7 +6,9 @@ https://www.youtube.com/watch?v=Nw7BFHGBjaY&list=PLkx8oFug638oMagBH2qj1fXOkvBr6n
 Now
 --------------------
 
-multiplayer menu
+make playercontroller better
+make players work on multiplayer
+
 singleplayer menu
 
 --------------------
